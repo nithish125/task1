@@ -1,0 +1,1100 @@
+@media only screen and (max-width: 768px) {
+    body {}
+
+    section {
+        overflow-x: hidden;
+        width: 768px;
+        font-family: 'PT Serif', serif;
+    }
+
+    .top {
+        background-image: url("../images/1.jpg");
+        height: 698px;
+    }
+
+    .header1 {
+
+        height: 176px;
+        display: flex;
+        align-items: center;
+        position: relative;
+        justify-content: center;
+    }
+
+    .head {
+        font-size: 17px;
+        color: aliceblue;
+    }
+
+    .navication {
+        font-size: 17px;
+        color: aliceblue;
+        display: flex;
+        margin: 0 0 0 229px;
+    }
+
+    .navication a {
+        font-size: 17px;
+        color: aliceblue;
+        text-decoration: none;
+        margin: 1px 0 0 25px;
+    }
+
+    .brunch1 {
+        display: flex;
+        justify-content: center;
+        height: 430px;
+        width: 639px;
+        align-items: center;
+    }
+
+    .brunch11 {
+
+        background-color: #fff8dccf;
+        text-align: center;
+        margin-left: 99px;
+        height: 356px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .brunch {
+        font-size: 70px;
+        color: #2b3a41;
+        font-family: 'Dancing Script', cursive;
+    }
+
+    .website {
+        font-size: 51px;
+        color: chocolate;
+        font-family: 'Nuosu SIL', serif;
+
+    }
+
+    .more {
+        background-color: aliceblue;
+        font-size: 23px;
+        margin: 19px 181px;
+    }
+
+
+    .india {
+        font-size: 83px;
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+
+    }
+
+    .indian {
+        background-color: darkslategrey;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        height: 337px;
+        width: 768px;
+    }
+
+    .indian1 {
+        width: 306px;
+    }
+
+    .indian1 p {
+        color: #f0f8ffa3;
+        line-height: 24px;
+
+    }
+
+    .indian1 h3 {
+        color: aliceblue;
+        line-height: 53px;
+    }
+
+    .indian2 {
+        width: 307px;
+        height: 294px;
+    }
+
+    .indian2 img {
+        width: 100%;
+        margin: 22px 0 0 0;
+    }
+
+    .india-place {
+        margin: 27px 0;
+    }
+
+    .place {
+        font-size: 23px;
+        color: darkred;
+        text-align: center;
+    }
+
+    .taste {
+        display: flex;
+        justify-content: space-evenly;
+        background-color: #d5d5edbd;
+        height: 223px;
+        width: 768px;
+        align-items: center;
+    }
+
+    .taste1 {
+        width: 137px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 170px;
+
+    }
+
+    .taste1 p {
+        line-height: 19px;
+    }
+
+    .dishes-back {
+        display: flex;
+        justify-content: center;
+        background-image: url(../images/9.jpg);
+        height: 900px;
+        width: 768px;
+        align-items: center;
+    }
+
+    .dishes {
+        background-color: #f0f8ffc4;
+        height: 589px;
+        width: 556px;
+    }
+
+
+    .dishe1 {
+        display: flex;
+        flex-direction: column;
+        width: 800px;
+        height: 600px;
+    }
+
+    .dishe11 {
+        display: flex;
+        width: 900px;
+    }
+
+    .dish {
+        width: 139px;
+    font-size: 14px;
+    height: 143px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+
+    .image1 {
+        width: 139px;
+
+    }
+
+    .image1 img {
+        width: 100%;
+    }
+
+    .tradition {
+        display: flex;
+        flex-direction: row;
+        background-color: #c9d7d7b5;
+        justify-content: space-between;
+        height: 306px
+    }
+
+    .tradition22 {
+        display: flex;
+        flex-direction: row;
+        background-color: #c9d7d7b5;
+        justify-content: space-between;
+        height: 306px
+    }
+
+    .image-trad {
+        height: 306px;
+    }
+
+    .textrad h3 {
+        font-size: 21px;
+        text-transform: capitalize;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .textrad i {
+        margin: 0px 5px;
+    }
+
+    .textrad p {}
+
+    .textrad {
+        height: 306px;
+        display: flex;
+        flex-direction: column;
+        width: 571px;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .image-trad img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .menu-ico {
+        width: 56px;
+        height: 56px;
+        background-color: aliceblue;
+        position: absolute;
+        margin: 0 -55px;
+        border-radius: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ico {
+        text-align: center;
+    }
+
+    .nav {
+        display: flex;
+        justify-content: space-evenly;
+        width: 416px;
+        margin: 15px 0px;
+    }
+
+    
+    
+
+    .menu {
+        height: 700px;
+        display: flex;
+        background-image: url(../images/12.jpg);
+        flex-direction: column;
+        justify-content: flex-end;
+        background-size: 768px;
+    }
+
+    .menu1 {
+        background-color: #f0f8ffb5;
+        width: 768px;
+    }
+
+    .our-menu {
+
+        text-align: center;
+        margin: 29px 0;
+        line-height: 50px;
+    }
+
+    .menu1 h3 {
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    .our-menu h2 {
+        text-align: center;
+        font-size: 49px;
+        color: #141418;
+        font-family: 'Dancing Script', cursive;
+
+    }
+
+    .our-menu h3 {
+        text-align: center;
+        font-size: 39px;
+        color: #b71706;
+    }
+
+    .menu2 {
+        display: flex;
+        justify-content: space-evenly;
+        margin: 0 117px;
+        width: 768px;
+
+    }
+
+    .menu21 {
+        display: flex;
+        width: 250px;
+        height: 400px;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .menu22 {}
+
+    .image-s {
+        background-image: url(../images/14.jpg);
+        height: 460px;
+        background-size: 768px;
+        background-repeat: no-repeat;
+    }
+
+    .image23 {
+        background-image: url(../images/13.jpg);
+        height: 474px;
+        width: 768px;
+        background-size: 768px;
+        background-repeat: no-repeat;
+    }
+
+    .image23 img {
+        width: 100%;
+    }
+
+    .book {
+        background-color: #464648;
+        color: aliceblue;
+    }
+
+    .book label {}
+
+    .book input {
+        border: 2px solid aliceblue;
+        background-color: #464648;
+        color: #d0cae1;
+        margin-bottom: 30px;
+    }
+
+    input,
+    select {
+        vertical-align: middle;
+        color: aliceblue;
+        background-color: #464648;
+    }
+
+    .book h2 {
+        text-align: center;
+        padding: 32px;
+        font-size: 41px;
+        font-family: 'Dancing Script', cursive;
+    }
+
+    .order {
+        display: flex;
+        line-height: 30px;
+        width: 768px;
+        justify-content: space-evenly;
+    }
+
+    .image-s {}
+
+    .image-s img {
+        width: 100%;
+    }
+
+    .new-menu {
+        display: flex;
+        justify-content: center;
+        height: 680px;
+        flex-direction: column;
+        background-color: #d0cae1;
+        align-items: center;
+        align-content: space-around;
+    }
+
+    .cover {
+        margin: 34px 0;
+    }
+
+    .new-menu .discover {
+        font-size: 53px;
+        font-family: 'Dancing Script', cursive;
+    }
+
+
+
+    .new-menu .our {
+        font-size: 36px;
+        color: chocolate;
+    }
+
+    .new-menu1 {
+        display: flex;
+        justify-content: space-evenly;
+        width: 746px;
+    }
+
+    .new-menu12 {
+        width: 214px;
+        background-color: aliceblue;
+
+    }
+
+    .new-menu12 img {
+        width: 100%;
+    }
+
+    .chicken {
+        margin-left: 40px;
+    }
+
+    .new-menu12 p {
+        line-height: 20px;
+        margin: 16px 10px;
+    }
+
+    .new-menu12 h4 {
+        margin: 14px 12px;
+    }
+
+    .date {
+        text-transform: capitalize;
+        margin: 7px 14p
+    }
+
+    .ico2 {
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #2d3c3c
+    }
+
+    .ico2 p {
+        width: 690px;
+        color: #f0f8ff9c;
+        line-height: 24px;
+    }
+
+    .ico2 h6 {
+        color: aliceblue;
+        margin: 12px 0;
+    }
+
+    .ico1 {
+        display: flex;
+        justify-content: space-evenly;
+        width: 333px;
+    }
+
+    .ico11 {
+        width: 51px;
+        height: 51px;
+        background-color: aliceblue;
+        border-radius: 134px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ico11 i {
+        font-size: 31px;
+    }
+
+    .about {
+        display: flex;
+        justify-content: space-evenly;
+        background-color: #d5d7e3;
+        width: 746px;
+    }
+
+    .abou {
+        display: flex;
+        background-color: #d5d7e3;
+        height: 224px;
+        align-content: stretch;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .about1 {
+        width: 300px;
+        line-height: 23px;
+        text-transform: capitalize;
+    }
+
+    .about2 {
+        display: flex;
+        justify-content: space-evenly;
+        width: 300px;
+
+    }
+
+    .about21 {
+        width: 100px;
+        text-transform: capitalize;
+        line-height: 26px;
+
+    }
+}
+
+@media only screen and (max-width: 385px) {
+    section {
+        overflow-x: hidden;
+        width: 385px;
+        font-family: 'PT Serif', serif;
+    }
+
+    .top {
+        background-image: url("../images/1.jpg");
+        height: 498px;
+    }
+
+    .header1 {
+
+        height: 176px;
+        display: flex;
+        align-items: center;
+        position: relative;
+        justify-content: flex-start;
+        margin-left: 21px;
+    }
+
+    .head {
+        font-size: 17px;
+        color: aliceblue;
+    }
+
+    .navication {
+        font-size: 17px;
+        color: aliceblue;
+        display: none;
+        margin: 0 0 0 229px;
+    }
+
+    .navication a {
+        font-size: 17px;
+        color: aliceblue;
+        text-decoration: none;
+        margin: 1px 0 0 25px;
+    }
+
+    .brunch1 {
+        display: flex;
+        justify-content: center;
+        height: 257px;
+        width: 385px;
+        align-items: center;
+    }
+
+    .brunch11 {
+
+        background-color: #fff8dccf;
+        text-align: center;
+        margin-left: -3px;
+        height: 223px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 257px;
+    }
+
+    .brunch {
+        font-size: 39px;
+        color: #2b3a41;
+        font-family: 'Dancing Script', cursive;
+    }
+
+    .website {
+        font-size: 22px;
+        color: chocolate;
+        font-family: 'Nuosu SIL', serif;
+    }
+
+    .more {
+        background-color: aliceblue;
+        font-size: 16px;
+        margin: 24px 73px;
+    }
+
+
+    .india {
+        font-size: 83px;
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+
+    }
+
+    .indian {
+        background-color: darkslategrey;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        height: 404px;
+        width: 385px;
+        flex-direction: column;
+    }
+
+    .indian1 {
+        width: 306px;
+    }
+
+    .indian1 p {
+        color: #f0f8ffa3;
+        line-height: 24px;
+
+    }
+
+    .indian1 h3 {
+        color: aliceblue;
+        line-height: 53px;
+    }
+
+    .indian22 {
+        background-color: darkslategrey;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        height: 404px;
+        width: 385px;
+        flex-direction: column;
+    }
+
+    .indian2 {
+        width: 307px;
+        height: 294px;
+    }
+
+    .indian2 img {
+        width: 100%;
+        margin: 22px 0 0 0;
+    }
+
+    .india-place {
+        margin: 27px 0;
+    }
+
+    .place {
+        font-size: 23px;
+        color: darkred;
+        text-align: center;
+    }
+
+    .taste {
+        display: block;
+        justify-content: space-evenly;
+        background-color: #d5d5edbd;
+        width: 385px;
+        height: 450px;
+        align-items: center;
+
+
+    }
+
+    .taste1 {
+        width: 285px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 128px;
+        margin-left: 46px;
+
+
+    }
+
+    .taste22 {
+        display: block;
+        justify-content: space-evenly;
+        background-color: #d5d5edbd;
+        width: 385px;
+        height: 450px;
+        align-items: center;
+    }
+
+    .taste1 p {
+        line-height: 19px;
+    }
+
+    .dishes-back {
+        display: flex;
+        justify-content: center;
+        background-image: url(../images/9.jpg);
+        background-size: cover;
+        height: 2645px;
+        align-items: center;
+        width: 385px;
+
+    }
+
+
+    .dishes {
+        background-color: #f0f8ffc4;
+        height: 2478px;
+        background-size: cover;
+        width: 276px;
+    }
+
+
+    .dishe1 {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+        height: 1603px;
+    }
+
+    .dishe11 {
+        display: flex;
+        width: 276px;
+        height: 772px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        border-bottom: 2px solid;
+    }
+
+    .dish {
+        width: 229px;
+        font-size: 18px;
+        height: 150px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .image1 {
+        width: 229px;
+
+    }
+
+    .image1 img {
+        width: 100%;
+    }
+
+    .tradition {
+        display: flex;
+        flex-direction: row;
+        background-color: #c9d7d7b5;
+        justify-content: space-between;
+        height: 306px
+    }
+
+    .tradition22 {
+        display: flex;
+        flex-direction: row;
+        background-color: #c9d7d7b5;
+        justify-content: space-between;
+        height: 306px;
+    }
+
+    .image-trad {
+        height: 306px;
+    }
+
+    .textrad h3 {
+        font-size: 21px;
+        text-transform: capitalize;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .textrad i {
+        margin: 0px 5px;
+    }
+
+    .textrad p {}
+
+    .textrad {
+        height: 306px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+
+    .image-trad img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .menu-ico {
+        width: 56px;
+        height: 56px;
+        background-color: aliceblue;
+        position: absolute;
+        margin: 0 -55px;
+        border-radius: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ico {
+        text-align: center;
+    }
+
+    .nav {
+        display: flex;
+        justify-content: space-evenly;
+        width: 416px;
+        margin: 15px 0px;
+    }
+
+    .menu {
+        height: 1070px;
+        display: flex;
+        background-image: url(../images/12.jpg);
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+
+    .menu1 {
+        background-color: #f0f8ffb5;
+        width: 385px;
+        display: block;
+    }
+
+    .our-menu {
+
+        text-align: center;
+        margin: 29px 0;
+        line-height: 50px;
+    }
+
+    .menu1 h3 {
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    
+    .our-menu h2 {
+        text-align: center;
+        font-size: 49px;
+        color: #141418;
+        font-family: 'Dancing Script', cursive;
+
+    }
+
+    .our-menu h3 {
+        text-align: center;
+        font-size: 39px;
+        color: #b71706;
+    }
+
+    .menu2 {
+        display: block;
+        justify-content: space-between;
+        margin: 0px 63px;
+
+
+    }
+
+    .menu21 {
+        display: flex;
+        width: 300px;
+        height: 400px;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .menu22 {
+        width: 250px;
+    }
+
+    .image-s {
+        background-image: url(../images/14.jpg);
+        height: 805px;
+    }
+
+    .image23 {
+        background-image: url(../images/13.jpg);
+        height: 238px;
+        background-size: 385px;
+        background-position: left;
+        background-repeat: no-repeat;
+    }
+
+    .image23 img {
+        width: 100%;
+    }
+
+    .book {
+        background-color: #464648;
+        color: aliceblue;
+        display: block;
+    }
+
+    .book label {}
+
+    .book input {
+        border: 2px solid aliceblue;
+        background-color: #464648;
+        color: #d0cae1;
+        margin-bottom: 30px;
+    }
+
+    input,
+    select {
+        vertical-align: middle;
+        color: aliceblue;
+        background-color: #464648;
+    }
+
+    .book h2 {
+        text-align: center;
+        padding: 32px;
+        font-size: 41px;
+        font-family: 'Dancing Script', cursive;
+    }
+
+    .order {
+        display: block;
+        line-height: 30px;
+        justify-content: space-evenly;
+        margin: 0 45px;
+    }
+
+    .image-s {
+        background-image: url(../images/14.jpg);
+        height: 230px;
+        background-size: 385px;
+    }
+
+    .image-s img {
+        width: 100%;
+    }
+
+    .new-menu {
+        display: flex;
+        justify-content: center;
+        height: 1462px;
+        flex-direction: column;
+        background-color: #d0cae1;
+        align-items: center;
+        align-content: space-around;
+    }
+
+    .cover {
+        margin: 34px 0;
+    }
+
+    .new-menu .discover {
+        font-size: 53px;
+        font-family: 'Dancing Script', cursive;
+    }
+
+
+
+    .new-menu .our {
+        font-size: 36px;
+        color: chocolate;
+    }
+
+    .new-menu1 {
+        display: flex;
+        justify-content: space-evenly;
+        width: 385px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .new-menu12 {
+        width: 251px;
+        background-color: aliceblue;
+        margin-bottom: 21px;
+
+    }
+
+    .new-menu12 img {
+        width: 100%;
+    }
+
+    .chicken {
+        margin-left: 40px;
+    }
+
+    .new-menu12 p {
+        line-height: 20px;
+        margin: 16px 10px;
+    }
+
+    .new-menu12 h4 {
+        margin: 14px 12px;
+    }
+
+    .date {
+        text-transform: capitalize;
+        margin: 7px 14p
+    }
+
+    .ico2 {
+        height: 490px;
+        display: flex;
+        width: 385px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #2d3c3c;
+    }
+
+    .ico2 p {
+        width: 290px;
+        color: #f0f8ff9c;
+        line-height: 24px;
+    }
+
+    .ico2 h6 {
+        color: aliceblue;
+        margin: 12px 0;
+    }
+
+    .ico1 {
+        display: flex;
+        justify-content: space-evenly;
+        width: 333px;
+    }
+
+    .ico11 {
+        width: 51px;
+        height: 51px;
+        background-color: aliceblue;
+        border-radius: 134px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ico11 i {
+        font-size: 31px;
+    }
+
+    .about {
+        display: flex;
+        justify-content: space-evenly;
+        background-color: #d5d7e3;
+        width: 746px;
+        flex-direction: column;
+        align-items: center;
+        height: 400px;
+    }
+
+    .abou {
+        display: flex;
+        background-color: #d5d7e3;
+        height: 352px;
+        align-content: stretch;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .about1 {
+        width: 300px;
+        line-height: 23px;
+        text-transform: capitalize;
+    }
+
+    .about2 {
+        display: flex;
+        justify-content: space-evenly;
+        width: 300px;
+
+    }
+
+    .about21 {
+        width: 100px;
+        text-transform: capitalize;
+        line-height: 26px;
+
+    }
+}
